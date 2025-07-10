@@ -1,5 +1,5 @@
 # G-Code Input and Formatting Utility  
-Just copy the gCodeInputAndFormatting.h into your project.  
+Just copy the gCodeInputAndFormatting.h into your project and #include "gCodeInputAndFormatting.h" to use the functions.  
 Functions:  
 
 ------------------------------------------------------------------  
